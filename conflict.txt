@@ -1,6 +1,6 @@
 conflict1
-conflict1
-conflict1
-conflict1
-conflict1
 conflict2
+conflict3
+conflict4
+conflict5
+conflict6
